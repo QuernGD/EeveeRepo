@@ -4,7 +4,7 @@
   "sourceURL": "https://github.com/QuernGD/EeveeRepo/blob/main/eSign-repo.json",
   "apps": [
     {
-      "name": "Spotify",
+      "name": "Spotify (No ads • Unlimited skips)",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Skye/Whoeevee",
       "version": "9.1.6",
@@ -12,7 +12,6 @@
       "size": 94500000,
       "downloadURL": "https://files.catbox.moe/3kojrb.ipa",
       "iconURL": "https://imgur.com/a/GU01dmP"
-      "localizedDescription": "Spotify mod. Features:\n• No ads\n• Unlimited skips"
     }
   ]
 }
