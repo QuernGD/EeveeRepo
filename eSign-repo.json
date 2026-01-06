@@ -1,7 +1,7 @@
 {
   "name": "EeveeRevived Repo",
   "identifier": "com.eeveerevived.repo",
-  "sourceURL": "https://YOUR_DOMAIN_OR_RAW_GITHUB_URL/repo.json",
+  "sourceURL": "https://github.com/QuernGD/EeveeRepo/blob/main/eSign-repo.json",
   "apps": [
     {
       "name": "Spotify",
