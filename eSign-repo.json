@@ -1,7 +1,7 @@
 {
   "name": "EeveeRevived Repo",
   "identifier": "com.eeveerevived.repo",
-  "sourceURL": "https://github.com/QuernGD/EeveeRepo/blob/main/eSign-repo.json",
+  "sourceURL": "https://raw.githubusercontent.com/QuernGD/EeveeRepo/refs/heads/main/eSign-repo.json",
   "apps": [
     {
       "name": "Spotify (No ads • Unlimited skips)",
