@@ -1,0 +1,17 @@
+{
+  "name": "EeveeRevived Repo",
+  "identifier": "com.eeveerevived.repo",
+  "sourceURL": "https://YOUR_DOMAIN_OR_RAW_GITHUB_URL/repo.json",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "EeveeRevived",
+      "version": "9.1.6",
+      "versionDate": "2026-01-06",
+      "size": 94500000,
+      "downloadURL": "https://files.catbox.moe/3kojrb.ipa",
+      "iconURL": "https://imgur.com/a/GU01dmP"
+    }
+  ]
+}
