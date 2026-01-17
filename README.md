@@ -2,6 +2,7 @@
 Spotify Premium Patched unnoficial repoistory for eSign
 
 • Features
+- Eevee Spotify v9.1.12
 - Free Premium
 - Working lyrics released! (musixmatch only)
 - Some premium features such as Jam or downloading playlists are not possible as they are server sided
